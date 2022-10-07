@@ -1,4 +1,4 @@
-Taxi Cần Thơ xin chào quý khách...
+
 
 [section bg="40"]
 
